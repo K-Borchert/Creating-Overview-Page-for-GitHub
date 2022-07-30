@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="100"/>
 </div>
 
-In this repository I will proviede you some code to create a nice looking overview in Github
+In this repository I will provide you with some code to create a nice looking overview in Github
 
 ## Intro
 As I started to structuring and creating some content in GitHub I realized that it isn't really self-explaining. If you don't know how to start and you havn't some expiriences in HTML it can be hard.So I thought I give you some Tips how to create an overview page the easy way.
