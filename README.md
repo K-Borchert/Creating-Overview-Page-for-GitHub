@@ -52,8 +52,8 @@ Creating your personal profil repository
 </tr>
 </table>
 
-## Adding Gifs and Buttons
-
+## Adding GIFs, Buttons, Stats,...
+<br>
 <table>
 <tr>
 <th> Description </th>
@@ -63,7 +63,9 @@ Creating your personal profil repository
 <tr>
 <td>Some links which will help you:</td>
 <td>https://giphy.com/ = Gifs<br>
-https://shields.io/ = Buttons
+https://shields.io/ = Buttons<br>
+https://github.com/anuraghazra/github-readme-stats = GitHub Stats<br>
+https://www.w3schools.com/html/ = Learn HTML
 </td>
 </tr>
 
@@ -105,4 +107,19 @@ https://shields.io/ = Buttons
 </ul></td>
 </tr>
 
+<tr>
+<td>Adding GitHub Stats to your Profil page: <a href="https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/Use%20GIFs](https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/GitHub%20Stats)">Code</a><br>
+  Change "your-github-username" into yours</td>
+<td><img width="435" alt="image" src="https://user-images.githubusercontent.com/63601923/181920516-4c2334bd-4efd-4151-8855-5f468e67b19d.png">
+</td>
+</tr>
+
+
+<tr>
+<td>And now some general coding commands in HTML</td>
+<td>br in <> = Break <br>
+  p in <> = Paragraph<br>
+  Commands starts with <> and ends with a / in <>
+  </td>
+</tr>
 
