@@ -1,0 +1,44 @@
+1️⃣ First: Add the code code below to your Profil page:
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+2️⃣ Second: Create a new File (workflow) in your Profil repository and add this as Title
+
+.github/workflows/blog-post-workflow.yml
+
+
+3️⃣ Third: Add this code to the new file above:
+
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "your-Blog"
+
+⚠️ For more information how you can add the Feed of your Blog go here: https://github.com/marketplace/actions/blog-post-workflow#popular-sources (open the drop down menu from the popular sources)
+    Example: for Wordpress add a /feed/ at the end of your URL
+
+4️⃣ At last: You must start your new workflow file manual
+
+1. Go under Actions in the tab below under your GitHub Name/Repository
+2. Choose under Latest Blogpost workflow on the right site the "Run Workflow" button and start the Workflow with "Run Workflow"
+3. After a successful run you can check your Profil page on which your latest Blog post should be
+
+🔗 For a more detailed description go here: https://www.sitepoint.com/github-profile-readme/
+
+
