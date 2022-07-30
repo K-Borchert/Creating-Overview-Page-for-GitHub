@@ -1,4 +1,21 @@
 # Creating-Overview-Page-for-GitHub
+<div id="badges">
+  <a href="https://www.linkedin.com/in/k-borchert/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Mirrortears">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="100"/>
+</div>
+
 In this repository I will proviede you some code to create a nice looking overview in Github
 
 ## Intro
@@ -40,7 +57,7 @@ Creating your personal profil repository
 <table>
 <tr>
 <th> Description </th>
-<th> Sreenshot </th>
+<th> Additional information </th>
 </tr>
 
 <tr>
@@ -51,11 +68,41 @@ https://shields.io/ = Buttons
 </tr>
 
 <tr>
-<td>Adding Gifs into your profil page</td>
-<td></td>
+<td>Adding Buttons into your profil page:  <a href="https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/Create%20Buttons%20(LinkedIN%2C%20Twitter%2C%20Youtube)">Code</a></td></td>
+<td><div id="badges">
+  <a href="https://www.linkedin.com/in/k-borchert/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Mirrortears">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div></td>
 </tr>
 
 <tr>
-<td></td>
-<td></td>
+<tr>
+<td>Adding Gif into your profil page. Go to giphy.com and choose one gif, <br> click on share and copy the Link. Put the Link into the code above:  <a href="https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/Use%20GIFs">Code</a></td>
+<td><div id="header" align="center">
+  <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="100"/>
+</div></td>
 </tr>
+
+<tr>
+<tr>
+<td>Next you can add a About me section: 
+<a href="https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/About%20me%20text">Code</a><br>
+
+<br> You can press the Windows button and <br> the dot button at the same time to get emojis.<br> To create bold and bigger header you can put one <br> # for a very big Header<br> ## for a slightly smaller Header and so on </td>
+<td>
+<br>
+<ul>
+  <li>🦄 Unicorn</li>
+  <li>💪🏽 Hard working</li>
+  <li>🧁 Sweet as a Cupcake</li>
+</ul></td>
+</tr>
+
+
