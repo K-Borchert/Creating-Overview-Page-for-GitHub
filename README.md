@@ -20,6 +20,60 @@ In this repository I will provide you with some code to create a nice looking ov
 
 ## Intro
 As I started to structuring and creating some content in GitHub I realized that it isn't really self-explaining. If you don't know how to start and you havn't some expiriences in HTML it can be hard.So I thought I give you some Tips how to create an overview page the easy way.
+<br>
+<br>
+
+## Example
+The Example can be found here: <a href="https://github.com/K-Borchert/Creating-Overview-Page-for-GitHub/blob/main/Whole%20Profile%20Template">Code</a>
+<br>
+<br>
+<br>
+<b><h1>Microsoft- Who?</h1></b>
+<br>
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/company/microsoft/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/c/Microsoft">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/MSPowerBI">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    </a>
+</div>
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l41YcLtmnhYyUlbfq/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=MicrosoftDocs&style=flat-square&color=blue" alt=""/></div>
+<br>
+
+## About
+
+<ul>
+<li>🦄 Microsoft </li> 
+<li>💬 Quote</li> 
+<li>💗 Love</li> 
+</ul>
+<br>
+
+### Hobbies:<br> 
+✒️Writing<br>
+🎧 Musik <br>
+<br>
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&theme=light&background=ffffff&show_icons=true&theme=radical)
+
+<br>
+
+## :writing_hand:Latest Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
+<br>
+<br>
 
 ## How to?
 
@@ -51,9 +105,15 @@ Creating your personal profil repository
 </td>
 </tr>
 </table>
+<br>
+<br>
+
 
 ## Adding GIFs, Buttons, Stats,...
-<br>
+
+Adding some Buttons, Stats, GIFs to make your Profil more interessting and interacrive
+
+
 <table>
 <tr>
 <th> Description </th>
@@ -122,50 +182,4 @@ https://www.w3schools.com/html/ = Learn HTML
   Commands starts with <> and ends with a / in <>
   </td>
 </tr>
-
-# Template Example with Microsoft
-
-<b><h1> #Microsoft- Who?</h1></b>
-<br>
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/company/microsoft/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/c/Microsoft">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/MSPowerBI">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    </a>
-</div>
-<br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l41YcLtmnhYyUlbfq/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=Microsoft Docs&style=flat-square&color=blue" alt=""/></div>
-<br>
-
-## About
-
-<ul>
-<li>🦄 Microsoft </li> 
-<li>💬 Quote</li> 
-<li>💗 Love</li> 
-</ul>
-<br>
-
-### Hobbies:<br> 
-✒️Writing<br>
-🎧 Musik <br>
-<br>
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Microsoft Docs&theme=light&background=ffffff&show_icons=true&theme=radical)
-
-<br>
-
-## :writing_hand:Latest Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
